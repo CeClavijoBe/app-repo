@@ -1,0 +1,13 @@
+apiVersion: v2
+name: my-app
+description: A Flask application with Prometheus metrics
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - flask
+  - python
+  - prometheus
+maintainers:
+  - name: CeClavijoBe
+    email: c.clavijo.berrios@gmail.com
