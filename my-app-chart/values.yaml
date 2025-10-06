@@ -3,7 +3,7 @@ replicaCount: 2
 image:
   repository: ceclavijo/my-flask-app
   pullPolicy: Always
-  tag: "84897b0"
+  tag: "0c7a876"
 
 imagePullSecrets: []
 nameOverride: ""
